@@ -1,0 +1,12 @@
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\bin\Debug\netcoreapp2.1\OOP Work Shop.deps.json
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\bin\Debug\netcoreapp2.1\OOP Work Shop.runtimeconfig.json
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\bin\Debug\netcoreapp2.1\OOP Work Shop.runtimeconfig.dev.json
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\bin\Debug\netcoreapp2.1\OOP Work Shop.dll
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\bin\Debug\netcoreapp2.1\OOP Work Shop.pdb
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.csprojAssemblyReference.cache
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.AssemblyInfoInputs.cache
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.AssemblyInfo.cs
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.csproj.CoreCompileInputs.cache
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.dll
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.pdb
+P:\Intro Work Shop\OOP Work Shop\OOP Work Shop\OOP Work Shop\obj\Debug\netcoreapp2.1\OOP Work Shop.genruntimeconfig.cache
